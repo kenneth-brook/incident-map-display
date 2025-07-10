@@ -1,5 +1,12 @@
 # 🗺️ Incident Map Display
 
+![Vite](https://img.shields.io/badge/Built_with-Vite-646CFF?logo=vite&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Maps-Mapbox-3f7ed5?logo=mapbox)
+![SCSS](https://img.shields.io/badge/Styles-SCSS-c6538c?logo=sass&logoColor=white)
+![License](https://img.shields.io/github/license/kenneth-brook/incident-map-display)
+![Last Commit](https://img.shields.io/github/last-commit/kenneth-brook/incident-map-display)
+![Open Issues](https://img.shields.io/github/issues/kenneth-brook/incident-map-display)
+
 A dynamic, Vite-powered interactive map that simulates live event activity using [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/), randomized marker placement, and smart JSON-driven data switching. Designed to showcase senior-level frontend mapping skills, live data UX, and modular JavaScript architecture.
 
 ---
