@@ -7,6 +7,30 @@
     <link href="https://api.mapbox.com/mapbox-gl-js/v3.13.0/mapbox-gl.css" rel="stylesheet" />
   </head>
   <body>
+    <div id="map-controls">
+  <label>Map Style:
+    <select id="style-selector">
+      <option value="streets-v12">Streets</option>
+      <option value="satellite-streets-v12">Satellite</option>
+      <option value="light-v11">Light</option>
+      <option value="dark-v11">Dark</option>
+    </select>
+  </label>
+  <label>Data Type:
+    <select id="data-selector">
+      <option value="traffic">Traffic</option>
+      <option value="events">Events</option>
+      <option value="tourism">Tourism</option>
+    </select>
+  </label>
+  <label>Marker Style:
+    <select id="marker-style">
+      <option value="basic">Basic</option>
+      <option value="icon">Icon</option>
+    </select>
+  </label>
+</div>
+
     <div id="map" style="width: 100vw; height: 100vh"></div>
     <script type="module" src="./assets/js/map-init.js"></script>
   </body>

@@ -1,0 +1,13 @@
+[
+  { "name": "I-95 Construction", "description": "Lane closures between Exit 29 and 36", "icon": "🚧" },
+  { "name": "Downtown Parade", "description": "Parade event with traffic reroutes", "icon": "🎉" },
+  { "name": "Bridge Inspection", "description": "Temporary stop-and-go flaggers", "icon": "🛑" },
+  { "name": "School Zone Alert", "description": "Reduced speed zone active", "icon": "🚸" },
+  { "name": "Accident Cleanup", "description": "Tow truck on scene", "icon": "🚓" },
+  { "name": "Storm Debris", "description": "Road partially blocked by limbs", "icon": "🌳" },
+  { "name": "Flood Warning", "description": "Low spots submerged near county line", "icon": "🌊" },
+  { "name": "Holiday Traffic", "description": "Heavy traffic expected near outlet mall", "icon": "🚗" },
+  { "name": "Fog Advisory", "description": "Low visibility reported on US 17", "icon": "🌫️" },
+  { "name": "Bike Race", "description": "Route closed 6AM–2PM", "icon": "🚴" }
+]
+
